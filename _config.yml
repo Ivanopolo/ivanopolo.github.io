@@ -9,7 +9,7 @@ name: Ivan Lobov
 description: Machine Learning Engineer @ Criteo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/7222754?v=3&s=460
+avatar: "https://avatars3.githubusercontent.com/u/7222754?v=3&s=460"
 
 #
 # Flags below are optional
@@ -19,9 +19,9 @@ avatar: https://avatars3.githubusercontent.com/u/7222754?v=3&s=460
 footer-links:
   dribbble:
   email:
-  facebook:DigitalLobov
+  facebook: DigitalLobov
   flickr:
-  github:ivanopolo
+  github: ivanopolo
   instagram:
   linkedin:
   pinterest:
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:UA-82871383-1
+google_analytics: "UA-82871383-1"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
